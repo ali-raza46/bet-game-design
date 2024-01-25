@@ -1,0 +1,63 @@
+h1 {
+    font-family: 'Permanent Marker';font-size: 32px;
+    display: flex;
+    margin-left: 5%;
+    
+
+}
+.nanumpen{
+        font-family: "Nanum Pen Script", cursive;
+        font-weight: 400;
+        font-style: normal;
+        margin-left: 18%;
+        font-size: 23px;
+        margin-top: 1.80%;
+    
+      }
+      
+.del1{
+    font-family: "nanum pen screipt", cursive,;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 5%;
+    padding-top: 2%;
+     font-size: 23px;
+
+}
+.del2{
+    font-family: "nanum pen screipt", cursive,;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 2%;
+    padding-top: 2%;
+    font-size: 23px;
+}
+.header{
+    display: flex;
+    justify-content: left;
+    background-color: black;
+    border-color: black;
+    border-style: solid ;
+    color: white;
+    
+    
+    
+}
+.del3{
+    border-style:solid ;
+    border-color: white;
+    background-color: white;
+    color: black;
+   border-radius: 10px;
+    margin-left: 15%;
+    padding-top: 0.50%;
+}
+.img{
+    justify-content: center;
+    margin-left: 9%;
+    margin-top: 1.5%;
+    background-color: black;
+    
+    
+    
+}
