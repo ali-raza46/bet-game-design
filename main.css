@@ -1,3 +1,96 @@
+@font-face{
+    font-family: digital;
+    src: url(./Technology.ttf);
+}
+
+.number{
+    font-family: digital;
+    font-size: 100px;
+    text-align: center;
+    font-style: normal;
+    margin: 0%;
+    padding: 0%;
+
+}
+.number1{
+    font-family: digital;
+    font-size: 60px;
+    text-align: center;
+    font-style: normal;
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    bottom: 80px;
+    left: 45%;
+    border: 1px lightgrey;
+    background-color: lightgrey;
+    width: 14%;
+
+}
+.max{
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: larger;
+    position: relative;
+    bottom: 125px;
+    left: 56.5%;
+}
+.plus{
+    position: relative;
+    bottom: 215px;
+    left: 59%;
+}
+.toss{
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 3em;
+    margin: 0%;
+    padding: 0%;
+}
+.box{
+    border: 6px solid;
+    width: 40%;
+    margin-left: 30%;
+    position: relative;
+    top: 33px;
+ }
+ .rect{
+    margin-left: 31%;
+ }
+.p1{
+    font-size:large;
+    position: relative;
+    bottom: 45px;
+    left: 490px;
+
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.p2{
+    font-size: large;
+    position: relative;
+    bottom: 83px;
+    left: 900px;
+
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.balance{
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4em;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+  }
+
 h1 {
     font-family: 'Permanent Marker';font-size: 32px;
     display: flex;
@@ -12,8 +105,10 @@ h1 {
         font-weight: 400;
         font-style: normal;
         margin-left: 18%;
-        font-size: 23px;
+        font-size: 2em;
         margin-top: 1.80%;
+        position: relative;
+        top: 2px;
     
       }
       
@@ -24,7 +119,8 @@ h1 {
     margin-left: 5%;
     padding-top: 2%;
      font-size: 23px;
-
+     position: relative;
+     top: 6px;
 }
 .del2{
     font-family: "nanum pen screipt", cursive,;
@@ -33,6 +129,8 @@ h1 {
     margin-left: 2%;
     padding-top: 2%;
     font-size: 23px;
+     position: relative;
+     top: 6px;
 }
 .header{
     display: flex;
