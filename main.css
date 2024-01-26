@@ -2,6 +2,8 @@ h1 {
     font-family: 'Permanent Marker';font-size: 32px;
     display: flex;
     margin-left: 5%;
+    /* width: 398px;
+    height: 67px; */
     
 
 }
@@ -39,7 +41,7 @@ h1 {
     border-color: black;
     border-style: solid ;
     color: white;
-    
+    border-width: 2px;
     
     
 }
