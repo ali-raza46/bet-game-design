@@ -3,6 +3,37 @@
     src: url(./Technology.ttf);
 }
 
+.p4{
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: larger;
+    position: relative;
+    bottom: 260px;
+    left: 50%;
+}
+ .connect{ 
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3em;
+    border: 1px solid;
+    width: 11%;
+    border-radius: 10px;
+    margin-left: 15%;
+    padding-top: 0.50%;
+    border-top-width: 10%;
+    position: relative;
+    bottom: 260px;
+    left: 33%;
+    height: 50px;
+    
+
+} 
+/* .connect{
+    border: 1px solid;
+    width: 400px;
+} */
 .number{
     font-family: digital;
     font-size: 100px;
