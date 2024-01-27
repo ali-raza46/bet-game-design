@@ -12,7 +12,7 @@
     bottom: 260px;
     left: 50%;
 }
- .connect{ 
+ /* .connect{ 
     font-family: "Nanum Pen Script", cursive;
     font-weight: 400;
     font-style: normal;
@@ -24,16 +24,62 @@
     padding-top: 0.50%;
     border-top-width: 10%;
     position: relative;
-    bottom: 260px;
+    bottom: 270px;
     left: 33%;
-    height: 50px;
+    height: 40px;
+    
     
 
-} 
-/* .connect{
+}  */
+.win{
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+   position: relative;
+   bottom:100px;
+   left: 30%;
+}
+.wins{ font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+   position: relative;
+   bottom: 170px;
+   left: 55%;
+
+}
+.last{
     border: 1px solid;
-    width: 400px;
-} */
+    border-width: 25px;
+    border-color: lightgrey;
+    position: relative;
+    bottom: 166px;
+}
+.power{
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5em;
+    margin-left:40%;
+    margin-top: -19%;
+}
+.vrf{
+     position: relative;
+     bottom: 85px;
+     left: 52%;
+}
+.connect{
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3em;
+    border: 1px solid;
+    border-radius: 25px;
+    position: relative;
+    bottom: 250px;
+    left: 47%;
+}
 .number{
     font-family: digital;
     font-size: 100px;
@@ -171,6 +217,7 @@ h1 {
     border-style: solid ;
     color: white;
     border-width: 2px;
+    width: 100%;
     
     
 }
